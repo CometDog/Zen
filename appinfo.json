@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "james.j.downs@gmail.com",
+    "longName": "Zen",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/zenbw.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/OpenSans-Regular.ttf",
+                "name": "OPEN_SANS_12",
+                "type": "font"
+            },
+            {
+                "file": "fonts/OpenSans-Regular.ttf",
+                "name": "OPEN_SANS_16",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Zen",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0c953b62-72a6-45a1-9804-312981fb1be2",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
